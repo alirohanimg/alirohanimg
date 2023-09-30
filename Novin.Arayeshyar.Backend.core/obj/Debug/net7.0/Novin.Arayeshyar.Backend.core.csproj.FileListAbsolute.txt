@@ -1,0 +1,11 @@
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.core.deps.json
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.core.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.core.pdb
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.core.GeneratedMSBuildEditorConfig.editorconfig
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.core.AssemblyInfoInputs.cache
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.core.AssemblyInfo.cs
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.core.csproj.CoreCompileInputs.cache
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.core.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.core.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.core.pdb
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.core\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.core.dll

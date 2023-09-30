@@ -1,0 +1,17 @@
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.deps.json
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.pdb
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.core.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.core.pdb
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.csproj.AssemblyReference.cache
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.AssemblyInfoInputs.cache
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.AssemblyInfo.cs
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.csproj.CoreCompileInputs.cache
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.csproj.CopyComplete
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.Infrastructure.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.pdb
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.Infrastructure.dll
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.runtimeconfig.json
+F:\webproject2\NovinArayeshyar\novin.arayeshyar.backend\Novin.Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Infrastructure.genruntimeconfig.cache
