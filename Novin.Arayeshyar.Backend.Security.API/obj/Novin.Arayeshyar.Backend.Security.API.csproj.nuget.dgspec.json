@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj": {}
+    "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj": {}
   },
   "projects": {
-    "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj": {
+    "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj",
+        "projectUniqueName": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj",
         "projectName": "Novin.Arayeshyar.Backend.core",
-        "projectPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj",
+        "projectPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj",
         "packagesPath": "C:\\Users\\novin\\.nuget\\packages\\",
-        "outputPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.core\\obj\\",
+        "outputPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj": {
+    "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj",
+        "projectUniqueName": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj",
         "projectName": "Novin.Arayeshyar.Backend.Infrastructure",
-        "projectPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj",
+        "projectPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\novin\\.nuget\\packages\\",
-        "outputPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Infrastructure\\obj\\",
+        "outputPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj": {
-                "projectPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj"
+              "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj": {
+                "projectPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.core\\Novin.Arayeshyar.Backend.core.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj": {
+    "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
+        "projectUniqueName": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
         "projectName": "Novin.Arayeshyar.Backend.Security.API",
-        "projectPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
+        "projectPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
         "packagesPath": "C:\\Users\\novin\\.nuget\\packages\\",
-        "outputPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\obj\\",
+        "outputPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Security.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,8 +163,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj": {
-                "projectPath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj"
+              "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj": {
+                "projectPath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Infrastructure\\Novin.Arayeshyar.Backend.Infrastructure.csproj"
               }
             }
           }

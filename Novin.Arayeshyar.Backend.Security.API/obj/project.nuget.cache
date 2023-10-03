@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t9ERdE9SU04x43xl4K+xEAp/6RnIbtksRJ3tIIGmOUg5Iff9ZibmyQxnE1SnrzQR9HY9QoF2uxvRf43Jc928SQ==",
+  "dgSpecHash": "0l6pLGpB/bWCdX8USpXQQS6N9Oi4Nj/MlJqR4G+Eh5NR+vjE82ZqACOyUOKJmfSpAdBcOvapL/Y6+OtQUjAJ3w==",
   "success": true,
-  "projectFilePath": "F:\\webproject2\\NovinArayeshyar\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
+  "projectFilePath": "F:\\webproject2\\NovinArayeshyar\\novin.arayeshyar.backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\novin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\novin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

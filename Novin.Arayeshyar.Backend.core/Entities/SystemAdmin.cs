@@ -10,12 +10,12 @@ namespace Novin.Arayeshyar.Backend.core.Entities
     {
         public string Usernmae { get; set; }
 
-        public SystemAdmin(string usernmae, string password, DateTime registerDate, string email, string fullName)
+        public SystemAdmin(string usernmae, string password, string email, string fullName)
         {
             Usernmae = usernmae;
-            Password = password;
-            RegisterDate = registerDate;
+            Password = password;            
             Email = email;
+            RegisterDate = DateTime.Now;
             FullName = fullName;
         }
 

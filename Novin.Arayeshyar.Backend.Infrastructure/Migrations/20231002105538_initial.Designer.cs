@@ -12,7 +12,7 @@ using Novin.Arayeshyar.Backend.Infrastructure.Database;
 namespace Novin.Arayeshyar.Backend.Infrastructure.Migrations
 {
     [DbContext(typeof(ArayeshyarDB))]
-    [Migration("20230930135815_initial")]
+    [Migration("20231002105538_initial")]
     partial class initial
     {
         /// <inheritdoc />

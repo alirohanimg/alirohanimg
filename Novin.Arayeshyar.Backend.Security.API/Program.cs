@@ -1,6 +1,8 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Novin.Arayeshyar.Backend.core.Entities;
 using Novin.Arayeshyar.Backend.Infrastructure.Database;
+using Novin.Arayeshyar.Backend.Security.API.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,29 +29,39 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
 
-app.MapGet("/weatherforecast", () =>
+
+app.MapPost("/adminlogin", (ArayeshyarDB db,LoginRequestDTO login) =>
+
 {
-    var forecast = Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+    if (!db.systemAdmins.Any())
+    {
+        var firstAdmin = new SystemAdmin("admin", "nimda", "email", "name");
+        db.systemAdmins.Add(firstAdmin);
+        db.SaveChanges();
+        
+    }
+
+    var result = db.systemAdmins
+    .Where(m => m.Usernmae == login.Username && m.Password == login.Password)
+    .FirstOrDefault();
+if (result !=null)
+
+{
+    return new
+    {
+        IsOK = true,
+        Message = "خوش آمدی مدیر جان"
+   };
+}
+
+    return new
+    {
+        IsOK = false,
+        Message = "بخشید شما!"
+    };
+
+
+});
 
 app.Run();
-
-internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
